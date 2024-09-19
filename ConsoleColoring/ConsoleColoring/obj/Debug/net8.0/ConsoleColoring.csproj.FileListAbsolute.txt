@@ -1,0 +1,14 @@
+D:\GortlerZsolt\0919\ConsoleColoring\ConsoleColoring\bin\Debug\net8.0\ConsoleColoring.exe
+D:\GortlerZsolt\0919\ConsoleColoring\ConsoleColoring\bin\Debug\net8.0\ConsoleColoring.deps.json
+D:\GortlerZsolt\0919\ConsoleColoring\ConsoleColoring\bin\Debug\net8.0\ConsoleColoring.runtimeconfig.json
+D:\GortlerZsolt\0919\ConsoleColoring\ConsoleColoring\bin\Debug\net8.0\ConsoleColoring.dll
+D:\GortlerZsolt\0919\ConsoleColoring\ConsoleColoring\bin\Debug\net8.0\ConsoleColoring.pdb
+D:\GortlerZsolt\0919\ConsoleColoring\ConsoleColoring\obj\Debug\net8.0\ConsoleColoring.GeneratedMSBuildEditorConfig.editorconfig
+D:\GortlerZsolt\0919\ConsoleColoring\ConsoleColoring\obj\Debug\net8.0\ConsoleColoring.AssemblyInfoInputs.cache
+D:\GortlerZsolt\0919\ConsoleColoring\ConsoleColoring\obj\Debug\net8.0\ConsoleColoring.AssemblyInfo.cs
+D:\GortlerZsolt\0919\ConsoleColoring\ConsoleColoring\obj\Debug\net8.0\ConsoleColoring.csproj.CoreCompileInputs.cache
+D:\GortlerZsolt\0919\ConsoleColoring\ConsoleColoring\obj\Debug\net8.0\ConsoleColoring.dll
+D:\GortlerZsolt\0919\ConsoleColoring\ConsoleColoring\obj\Debug\net8.0\refint\ConsoleColoring.dll
+D:\GortlerZsolt\0919\ConsoleColoring\ConsoleColoring\obj\Debug\net8.0\ConsoleColoring.pdb
+D:\GortlerZsolt\0919\ConsoleColoring\ConsoleColoring\obj\Debug\net8.0\ConsoleColoring.genruntimeconfig.cache
+D:\GortlerZsolt\0919\ConsoleColoring\ConsoleColoring\obj\Debug\net8.0\ref\ConsoleColoring.dll
